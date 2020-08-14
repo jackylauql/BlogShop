@@ -294,3 +294,15 @@ button:active {
     outline: none;
 }
 
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    padding: 10px 20px 20px 20px;
+}
+
+.flex-item span {
+    font-size: 1.8rem;
+}
